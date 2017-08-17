@@ -1,0 +1,4 @@
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % payload "blah>
+<!ENTITY % end "]]>">
+<!ENTITY all "%start;%payload;%end;">
